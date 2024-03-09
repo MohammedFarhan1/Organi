@@ -17,7 +17,7 @@ Ogani is an online platform that connects customers with fresh fruits and vegeta
     
   ## Installation
   - ### Clone the repository: git clone **https://github.com/MohammedFarhan1/Organi.git**
-  - ### Access the website at **https://mohammedfarhan1.github.io/Organi/**
+  - ### Access the website at **https://mohammedfarhan1.github.io/Organi-E-Commerce-Website/**
  
     ## **License:**
     This project is licensed under the **Mohammed Farhan**
